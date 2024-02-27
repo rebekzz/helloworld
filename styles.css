@@ -19,5 +19,6 @@ html, body{
 
 <style> 
 p{ 
- color: blue 
- text-weight
+ color: blue;
+ text-weight: bold;
+}
